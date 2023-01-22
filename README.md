@@ -6,6 +6,6 @@
 
 [Homepage](https://liyan.moe)
 
-![](https://github-readme-stats.vercel.app/api?username=liyanqwq&layout=compact&show_icons=true&theme=transparent&count_private=true&hide_title=true)
+![](https://github-readme-stats.vercel.app/api?username=liyanqwq&layout=compact&show_icons=true&theme=default&count_private=true&hide_title=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=liyanqwq&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=liyanqwq&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default)
