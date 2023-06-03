@@ -1,11 +1,9 @@
 ### Li Yan
 
-<pre><code>
-即使明天早上
+<pre><code>即使明天早上
 枪口和血淋淋的太阳
 让我交出青春、自由和笔
-我也决不会交出这个夜晚
-</code></pre>
+我也决不会交出这个夜晚</code></pre>
 
 
 [Homepage](https://liyan.moe)
