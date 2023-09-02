@@ -1,6 +1,9 @@
 ### 立言 Li Yan
 
-[Homepage](https://liyan.moe) [CV](https://cv.leozhao.org)
+:school: The Hong Kong Polytechnic University (BSc in AI/IE)
+👨‍💼 DuianTech (Beijing) Co., Ltd.
+
+[Homepage](https://liyan.moe)&emsp;[CV](https://cv.leozhao.org)
 
 ![](https://github-readme-stats.vercel.app/api?username=liyanqwq&show_icons=true&theme=default&count_private=true&hide_title=true)
 
