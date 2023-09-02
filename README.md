@@ -1,6 +1,4 @@
-Hi,
-
-This is 立言 / Li Yan.
+### 立言 Li Yan
 
 [Homepage](https://liyan.moe) [CV](https://cv.leozhao.org)
 
