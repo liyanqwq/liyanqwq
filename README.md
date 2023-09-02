@@ -1,12 +1,8 @@
-### Li Yan
+Hi,
 
-<pre><code>即使明天早上
-枪口和血淋淋的太阳
-让我交出青春、自由和笔
-我也决不会交出这个夜晚</code></pre>
+This is 立言 / Li Yan.
 
-
-[Homepage](https://liyan.moe)
+[Homepage](https://liyan.moe) [CV](https://cv.leozhao.org)
 
 ![](https://github-readme-stats.vercel.app/api?username=liyanqwq&show_icons=true&theme=default&count_private=true&hide_title=true)
 
