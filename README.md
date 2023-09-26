@@ -2,6 +2,7 @@
 
 :school: The Hong Kong Polytechnic University (BSc in AI/IE)
 
+
 👨‍💼 DuianTech (Beijing) Co., Ltd.
 
 [Homepage](https://liyan.moe)&emsp;[CV](https://cv.leozhao.org)
