@@ -1,10 +1,12 @@
 ### 立言 Li Yan
 
-:school: The Hong Kong Polytechnic University (BSc in AI/IE)
+🧑‍💼 Full Stack Web Developer / CTFer
+
+:school: The Hong Kong Polytechnic University
 
 
 
-[Homepage](https://liyan.moe)&emsp;[CV](https://cv.leozhao.org)
+[Homepage](https://liyan.moe)&emsp;[Blog](https://blog.liyan.moe)&emsp;[CV](https://cv.leozhao.org)
 
 ![](https://github-readme-stats.vercel.app/api?username=liyanqwq&show_icons=true&theme=default&count_private=true&hide_title=true)
 
